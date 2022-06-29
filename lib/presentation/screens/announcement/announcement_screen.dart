@@ -12,13 +12,13 @@ import '/presentation/bloc/create_post/create_post_state.dart';
 import '/presentation/colors.dart';
 import '/presentation/screens/filters/filter_screen.dart';
 import '/presentation/screens/search/search_city_screen.dart';
-import '../../widgets/base_text_field.dart';
-import '../../widgets/custom_dialog_box.dart';
-import '../../widgets/menu_button.dart';
-import '../../widgets/segmented_control.dart';
-import '../../widgets/submit_button.dart';
 
-import '../../widgets/loading.dart';
+import '/presentation/widgets/base_text_field.dart';
+import '/presentation/widgets/custom_dialog_box.dart';
+import '/presentation/widgets/menu_button.dart';
+import '/presentation/widgets/segmented_control.dart';
+import '/presentation/widgets/submit_button.dart';
+import '/presentation/widgets/loading.dart';
 
 class AnnouncementScreen extends StatefulWidget {
   const AnnouncementScreen({Key? key}) : super(key: key);

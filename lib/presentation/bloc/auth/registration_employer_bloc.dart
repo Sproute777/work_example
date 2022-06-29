@@ -61,7 +61,7 @@ class RegistrationEmployerBloc {
       'email': prefs.getString("EMAIL"),
       'password': prefs.getString("PASSWORD"),
     };
-    print(jsonMap);
+    // print(jsonMap);
     try {
       final response = await dio.post("${baseUrl}register/", data: jsonMap);
       if (response.statusCode == 201) {
