@@ -13,7 +13,7 @@ import '../../widgets/segmented_control.dart';
 import '../search/search_city_screen.dart';
 import '/presentation/bloc/auth/registration_model_bloc.dart';
 import '/presentation/colors.dart';
-import '/presentation/models/RequestProfileModel.dart';
+import '../../models/requiest_profilie_model.dart';
 import '/presentation/widgets/base_text_field.dart';
 import '/presentation/widgets/custom_dialog_box.dart';
 import '/presentation/widgets/submit_button.dart';

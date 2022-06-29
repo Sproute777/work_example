@@ -11,7 +11,7 @@ import 'package:rxdart/subjects.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '/data/api/constants.dart';
-import '/presentation/models/RequestProfileModel.dart';
+import '../../models/requiest_profilie_model.dart';
 
 class RegistrationEmployerBloc {
   http.Client? client;

@@ -12,7 +12,7 @@ import '/presentation/colors.dart';
 import '/presentation/screens/search/search_city_screen.dart';
 import '/router/router_cubit.dart';
 
-import '../../models/RequestProfileModel.dart';
+import '../../models/requiest_profilie_model.dart';
 import '../../widgets/base_text_field.dart';
 import '../../widgets/custom_dialog_box.dart';
 import '../../widgets/submit_button.dart';
